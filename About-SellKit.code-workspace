@@ -1,8 +1,11 @@
 {
-	"folders": [
-		{
-			"path": "."
-		}
-	],
-	"settings": {}
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "D:\\nqdev\\github\\nqdev-fork\\viblo-asia-about.viblo.asia"
+    }
+  ],
+  "settings": {}
 }
